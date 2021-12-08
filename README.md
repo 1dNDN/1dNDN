@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=1dNDN&color=cc00cc)
 
 <!--
 **1dNDN/1dNDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
